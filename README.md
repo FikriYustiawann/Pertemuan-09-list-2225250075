@@ -67,4 +67,4 @@ python3 praktik/uji_test_case.py
 ## Sumber dan Bantuan
 - Bahan ajar Pertemuan 09, Algoritma dan Pemrograman (Dr. Aan Hendrayana, S.Si., M.Pd.).
 - Dokumentasi Python 3: Data Structures.
-- Bantuan AI (Claude) digunakan untuk menyusun draf kode, README, dan pengujian; saya telah membaca dan menjalankan seluruh kode tersebut.
+- Bantuan AI digunakan untuk menyusun draf kode, README, dan pengujian; saya telah membaca dan menjalankan seluruh kode tersebut.
