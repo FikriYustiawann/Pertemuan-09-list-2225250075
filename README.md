@@ -1,8 +1,11 @@
 # Pertemuan 09 - List dan Pengolahan Data Numerik
 
-Nama: Fikri Yustiawan
-NIM: 2225250075
-Kelas: ... (isi sendiri)
+| **Keterangan** | **Data** |
+|---|---|
+| **Nama** | Fikri Yustiawan |
+| **NIM** | 2225250075 |
+| **Kelas** | 3E |
+| **Jurusan** | Pendidikan Matematika |
 
 ## Tujuan
 Mengolah kumpulan data numerik dengan list Python: akses indeks, slicing, manipulasi elemen, perulangan, agregasi, dan fungsi yang menerima list.
